@@ -3,7 +3,7 @@
 A simple command-line tool to convert USD, EUR, GBP, or RUB to Georgian Lari (GEL) using the official exchange rates from the National Bank of Georgia for a given date.
 
 ## Requirements
-- Python 3.7+
+- Python 3.13
 - `requests` package
 
 ## Installation
